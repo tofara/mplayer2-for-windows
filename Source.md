@@ -1,0 +1,1 @@
+My (mostly minor) modifications to MPlayer2 can be found on GitHub @ https://github.com/redxii/mplayer2. It is mostly just fixes for libraries or features that didn't compile out-of-the-box on MinGW-w64 & MSYS under Windows.
